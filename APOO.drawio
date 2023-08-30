@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T17:27:54.562Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="mtqBNB1IehFzOlE-a5qa" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T17:34:32.714Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="ksF6Cs3Ihkt8nxk9pQTw" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="880" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Szthus3tNJcWBqBGPoB4-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270.00000000000045" y="105" width="360" height="480" as="geometry" />
+        <mxCell id="Szthus3tNJcWBqBGPoB4-1" value="Activies" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270.00000000000045" y="105" width="970" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="Szthus3tNJcWBqBGPoB4-2" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        <mxCell id="Szthus3tNJcWBqBGPoB4-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Employees&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
+          <mxGeometry y="20" width="370" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="Szthus3tNJcWBqBGPoB4-3" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="Szthus3tNJcWBqBGPoB4-3" value="Suppilers" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
+          <mxGeometry x="370" y="20" width="310" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="Szthus3tNJcWBqBGPoB4-4" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="Szthus3tNJcWBqBGPoB4-4" value="&lt;div&gt;Customers&lt;/div&gt;" style="swimlane;startSize=20;html=1;" vertex="1" parent="Szthus3tNJcWBqBGPoB4-1">
+          <mxGeometry x="680" y="20" width="290" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
